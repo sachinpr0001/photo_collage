@@ -1,2 +1,2 @@
 # photo_collage
-A simple photo collage maker
+A simple photo collage maker using openCV.
